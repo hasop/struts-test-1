@@ -8,6 +8,7 @@ This repository is about testing Java/Struts development.
 * [Apache Tomcat 6+](http://tomcat.apache.org/)
 * [Struts 1.3.9](http://struts.apache.org/1.x/)
 * [Maven 3.x](http://maven.apache.org/docs/3.0.4/release-notes.html)
+* (... and having a GitHub account)
 
 ## Go for it
 
@@ -21,7 +22,7 @@ This repository is about testing Java/Struts development.
 
 Running webapp should provide following login process:
 
-![Login process mockup](https://github.com/cchantep/struts-test/master/docs/login-mockup.png)
+![Login process mockup](https://raw.github.com/cchantep/struts-test/master/docs/login-mockup.png)
 
 * It must be possible to compile and package webapp only with Maven: do not add requirements/dependencies to any IDE.
 * Login screen must be displayed at webapp root `/`. 
