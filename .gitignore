@@ -1,4 +1,8 @@
 *.class
+target
+
+# Emacs
+*~
 
 # Package Files #
 *.jar
